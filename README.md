@@ -136,6 +136,7 @@ ATM_Code_Explanation.pdf | Page: 2
 ATM_GUI_Presentation_Guide.pdf | Page: 2
 ATM_GUI_Presentation_Guide.pdf | Page: 5
 
+## 8. Test Result for multiple questions
 
 ======================================================================
 BATCH RAG RESULTS
@@ -222,7 +223,7 @@ The project guide outlines several specific code implementation details:
 
 
 
-## 8. Evaluation
+## 9. Evaluation
 
 Number of test questions: 5
 
@@ -230,7 +231,7 @@ Correct answers: 5
 
 Accuracy: 100%
 
-## 9. How to Run
+## 10. How to Run
 
 1. Open the Google Colab notebook.
 2. Install the required dependencies.
@@ -239,7 +240,7 @@ Accuracy: 100%
 5. Run the notebook cells sequentially.
 6. Launch the Gradio interface.
 
-## 10. Conclusion
+## 11. Conclusion
 
 The project demonstrates how RAG can improve
 document-based question answering by retrieving
