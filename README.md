@@ -111,15 +111,12 @@ chunks for each user question.
 
 ## 7. RAG vs Without RAG
 
-======================================================================
 QUESTION:
 What is the exact name of the function used for Storing hash-based authentication in the databasedescribed in my ATM code PDF?
 
-======================================================================
 WITHOUT RAG:
 I do not know the answer. I do not have access to your ATM code PDF or any specific documents, so I cannot tell you the exact name of the function used in your project.
 
-======================================================================
 WITH RAG:
 Based on the provided context, the exact name of the function used for hashing PINs for hash-based authentication is **`hash_pin(pin)`** (or `hash_pin`). 
 
@@ -128,7 +125,6 @@ It turns a PIN into a 64-character SHA-256 hash so that only the hash is stored 
 **Source:**
 * `ATM_Code_Explanation.pdf`, Page 2
 
-======================================================================
 RETRIEVED SOURCES:
 ATM_Code_Explanation.pdf | Page: 6
 ATM_Code_Explanation.pdf | Page: 2
@@ -138,9 +134,8 @@ ATM_GUI_Presentation_Guide.pdf | Page: 5
 
 ## 8. Test Result for multiple questions
 
-======================================================================
 BATCH RAG RESULTS
-======================================================================
+
 ### QUESTION 1: What is the main purpose of the ATM application?
 
 **Answer:**
