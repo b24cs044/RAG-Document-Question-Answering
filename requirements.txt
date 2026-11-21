@@ -1,0 +1,8 @@
+
+pypdf
+chromadb
+sentence-transformers
+langchain-text-splitters
+transformers
+google-genai
+gradio
